@@ -16,7 +16,9 @@ prompts for professional communication, and explore image and video generation.
     ◦ Apply the Persona Prompting pattern (e.g., "Act as a research assistant") to see how each
     model adapts its tone.
 
+
     the prompt in chatgpt --https://chatgpt.com/share/69aa5f6c-b728-8001-805e-2d6026ee5ac6
+    
 
     
   2. Practical Prompting: Launch Email for a Workshop
@@ -50,4 +52,4 @@ prompts for professional communication, and explore image and video generation.
     ◦ Use Few-Shot Prompting by providing the AI with 2–3 examples of the style of narration or
     visual transitions you desire to ensure consistency.
 
-    video link: https://drive.google.com/drive/folders/1VapUijgKcJ8H-46-txUM7Fi_auX5LwUL?usp=sharing
+video link: https://drive.google.com/drive/folders/1VapUijgKcJ8H-46-txUM7Fi_auX5LwUL?usp=sharing
