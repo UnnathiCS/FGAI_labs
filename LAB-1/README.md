@@ -39,7 +39,7 @@ prompts for professional communication, and explore image and video generation.
       use the logic of the Cognitive Verifier Pattern by asking the AI what specific visual details
       (lighting, style, framing) it needs to improve the output.
     
-    ![Untitled design](https://github.com/user-attachments/assets/57bba4bc-41e3-4d52-a415-d36f6721ac8a)
+![Untitled design](https://github.com/user-attachments/assets/57bba4bc-41e3-4d52-a415-d36f6721ac8a)
 
 
   4. Video Creation: Fliki.ai , Kalaido.ai or Similar tools
